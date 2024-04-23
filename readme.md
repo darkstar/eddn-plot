@@ -15,3 +15,7 @@ contain a star position. But sometimes you can see people using the neutron
 highway for example :)
 
 Just let the program run for a while and watch the dots pop up...
+
+More info about eddn (and the E:D addons that send to it) [here](https://edcodex.info/?m=tools&entry=24).
+
+More info about the status of the eddn network [here](https://eddn.edcd.io/).
